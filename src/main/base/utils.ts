@@ -19,9 +19,9 @@ export class utils {
         resourcePath: path.join(__dirname, "../../resources"),
         i18nPath: path.join(__dirname, "../../src/i18n"),
         i18nPathSrc: path.join(__dirname, "../../src/il8n/source"),
-        ciderCache: path.resolve(app.getPath("userData"), "CiderCache"),
-        themes: path.resolve(app.getPath("userData"), "Themes"),
-        plugins: path.resolve(app.getPath("userData"), "Plugins"),
+        //ciderCache: path.resolve(app.getPath("userData"), "CiderCache"),
+        //themes: path.resolve(app.getPath("userData"), "Themes"),
+        //plugins: path.resolve(app.getPath("userData"), "Plugins"),
     };
 
     /**
